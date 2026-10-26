@@ -1,0 +1,95 @@
+[19-Jun-2026 11:35:06 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:07 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:10 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:13 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:14 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:23 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:32 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:35:34 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:48
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(48): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 48
+[19-Jun-2026 11:40:33 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:40:34 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:40:40 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:40:41 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:42:15 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:42:15 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:42:16 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:42:16 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 11:42:16 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'goldensketch_trackingsystem.overtime_requests' doesn't exist in /home/goldensketch/public_html/tracking/driver.php:47
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/driver.php(47): PDO->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/driver.php on line 47
+[19-Jun-2026 15:21:58 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 'goldensketch_trackingsystem.p.part_code' isn't in GROUP BY in /home/goldensketch/public_html/tracking/inventory_reports.php:185
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/inventory_reports.php(185): PDO->query('\n        SELECT...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/inventory_reports.php on line 185
+[19-Jun-2026 15:22:09 Asia/Amman] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 'goldensketch_trackingsystem.p.part_code' isn't in GROUP BY in /home/goldensketch/public_html/tracking/inventory_reports.php:185
+Stack trace:
+#0 /home/goldensketch/public_html/tracking/inventory_reports.php(185): PDO->query('\n        SELECT...')
+#1 {main}
+  thrown in /home/goldensketch/public_html/tracking/inventory_reports.php on line 185
